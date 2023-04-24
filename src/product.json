@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "id": "0",
+            "title": "television",
+            "description": "calidad media",
+            "price": "1565",
+            "thumbnail": "https://cdn.pixabay.com/photo/2018/12/22/03/27/smart-tv-3889141_1280.png",
+            "code": "code0",
+            "stock": "9743",
+            "status": "true",
+            "category": "tecnologia"
+        },
+        {
+            "id": "1",
+            "title": "celular",
+            "description": "gama alta",
+            "price": "2500",
+            "thumbnail": "data:image/jpeg;base64,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",
+            "code": "code1",
+            "stock": "323",
+            "status": "true",
+            "category": "tecnologia"
+        },
+        {
+            "id": "2",
+            "title": "monitor",
+            "description": "usado",
+            "price": "900",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSadAqY89xAmdtvs2y9vgw-ErAW79v85xLkctuN42ovY4oEJks10MdF3m_Zpiu8kbFxl0g&usqp=CAU",
+            "code": "code2",
+            "stock": "65",
+            "status": "true",
+            "category": "tecnologia"
+        },
+        {
+            "id": "3",
+            "title": "auriculares",
+            "description": "recien nuevo, calidad alta",
+            "price": "1100",
+            "thumbnail": "https://elonce-media.elonce.com/fotos-nuevo/2023/01/02/o_1672696656.jpg",
+            "code": "code3",
+            "stock": "98",
+            "status": "true",
+            "category": "tecnologia"
+        },
+        {
+            "id": "4",
+            "title": "mouse",
+            "description": "calidad media",
+            "price": "750",
+            "thumbnail": "https://resource.logitech.com/content/dam/logitech/en/products/mice/m190-wireless-mouse/m190-wireless-mouse-charcoal-gallery-01.png",
+            "code": "code4",
+            "stock": "74",
+            "status": "true",
+            "category": "tecnologia"
+        },
+        {
+            "id": "5",
+            "title": "impresora",
+            "description": "baja calidad",
+            "price": "150",
+            "thumbnail": "https://mediaserver.goepson.com/ImConvServlet/imconv/766fb9e69dc761e4d42e76e5bfaa647d6629a375/1200Wx1200H?use=banner&hybrisId=B2C&assetDescr=foto-ecotank-L8180-5-690x480",
+            "code": "code5",
+            "stock": "976",
+            "status": "true",
+            "category": "tecnologia"
+        },
+        {
+            "id": "6",
+            "title": "proyector",
+            "description": "como nuevo, calidad alta",
+            "price": "160",
+            "thumbnail": "https://mediaserver.goepson.com/ImConvServlet/imconv/9f8efe4b72c23c4a22d6ff72ac911b2a32c44df5/1200Wx1200H?use=banner&hybrisId=B2C&assetDescr=EX9240_PowerLite%201288_PowerLite%20FH52%2B_a_No.3",
+            "code": "code6",
+            "stock": "679",
+            "status": "true",
+            "category": "tecnologia"
+        },
+        {
+            "id": "7",
+            "title": "teclado",
+            "description": "baja calidad",
+            "price": "200",
+            "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_944449-MLA50305077491_062022-O.jpg",
+            "code": "code7",
+            "stock": "7564",
+            "status": "true",
+            "category": "tecnologia"
+        },
+        {
+            "id": "8",
+            "title": "cargador",
+            "description": "calidad media",
+            "price": "1700",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSfBz2VroSvGIfwLZG-_ASnbWXSAFhiwXng&usqp=CAU",
+            "code": "code8",
+            "stock": "57",
+            "status": "true",
+            "category": "tecnologia"
+        }
+        
+    ]
+}
